@@ -3,9 +3,9 @@ title: Introduction
 lang: en-US
 meta:
   - name: description
-    content: hello
+    content: a short guide how to start templating your resources
   - name: keywords
-    content: super duper SEO
+    content: kubernetes template manifest
 ---
 
 # Introduction
